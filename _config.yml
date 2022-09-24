@@ -6,9 +6,9 @@ description: >-
   Hakan Torun Kişisel Blog Sitesi. Bilgisayar mühendisliği, yazılım geliştirme, siber güvenlik ve çeşitli konularda blog gönderilerine erişebilirsiniz.
 lang: tr-TR
 timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
-google_verify:      Q4Ewp22lX-DiRoBVzVVP13l6lh2oxChSmpGfBP0SPj8 # Put your Google Verification here
-google_analytics:   UA-50152086-19 # Put your Google Analytics code
+repo: https://github.com/YiPianYe/yipianye.github.io # site repo [optional]
+google_verify:      Q4Ewp22lX-Di13l6lh2oxChSmpGfBP0SPj8 # Put your Google Verification here
+google_analytics:   UA-501526-19 # Put your Google Analytics code
 discus-identifier: hakanio
 
 # Author settings
@@ -25,7 +25,7 @@ author:
 
 
 # URL settings
-url: "https://hakan.io" # Domain Name of host. [username].github.io for github pages
+url: "https://icp.me/" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
@@ -48,7 +48,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-relative-links
-paginate: 20
+paginate: 18
 paginate_path: "/page/:num"
 
 collections:
