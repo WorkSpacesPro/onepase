@@ -1,18 +1,48 @@
 @import url('https://fonts.googleapis.com/css?family=Catamaran:400,500,600,700&subset=latin-ext');
+/*参考CSS
+a:link{color:#000000;}      未访问链接
+
+a:visited {color:#00FF00;}   已访问链接 
+
+a:hover {color:#FF00FF;}  鼠标移动到链接上 
+
+a:active {color:#0000FF;}   鼠标点击时 
+
+*/
+
+/*默认
 :root {
-    --bg-color: #fafafa;
-    --bg-hover-color: #ececec;
-    --body-bg: #fff;
+    --bg-color: #fafafa;边框里色
+    --bg-hover-color: #ececec;鼠标经过色
+    --body-bg: #fff; 背景颜色
+    --primary-font-color: #000;链接文字色
+    --border-color: #dadada; 边框虚线色
+}
+/*夜间
+[data-theme="dark"] {
+  --bg-color: #161f29;边框里色
+  --bg-hover-color:#36404c;鼠标经过色
+  --body-bg: #10171e;背景颜色
+  --primary-font-color: #bfbfbf;链接文字色
+  --border-color: #6a6a6a;边框虚线色
+}
+*/
+
+:root {
+    a:link{color:#0000ff;} 
+    --bg-color: #e8f2fc;
+    --bg-hover-color: #e8f9fc;
+    --body-bg: #e8f2fc;
     --primary-font-color: #000;
-    --border-color: #dadada;
+    --border-color: #e8f2fc;
 }
 
 [data-theme="dark"] {
-  --bg-color: #161f29;
-  --bg-hover-color:#36404c;
+  --bg-color: #10171e;
+  --bg-hover-color:0c1117;
   --body-bg: #10171e;
-  --primary-font-color: #bfbfbf;
-  --border-color: #6a6a6a;
+  --primary-font-color: #f0ffff;
+  --border-color: #10171e;
 }
 
 body{
