@@ -6,7 +6,7 @@ description: >-
    洗洗睡吧，梦里啥都有！, 
 lang: utf-8
 timezone:  Europe/Istanbul
-repo: https://github.com/qinghongjiao/ # site repo [optional]
+repo: https://github.com/YiPianYe/ # site repo [optional]
 # google_verify:      Q4Ewp22lX-DiRoBVzVVP13 # Put your Google Verification here
 # google_analytics:   UA-5015 # Put your Google Analytics code
 # discus-identifier: hakanio
@@ -27,7 +27,7 @@ author:
 
 
 # URL settings
-url: "https://qinghongjiao.com" # Domain Name of host. [username].github.io for github pages
+url: "https://icp.me" # Domain Name of host. [username].github.io for github pages
 baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
