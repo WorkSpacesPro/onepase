@@ -1,9 +1,9 @@
 # Site settings
-site: 青红椒
-title: 靑紅椒
-keywords: 靑紅椒, Blog, QingHongJiao, 
+site: iCp.Me
+title: iCp.Me
+keywords: iCp.Me, Blog, 
 description: >-
-   洗洗睡吧，梦里啥都有！, 
+   洗洗睡吧，梦里啥都有！
 lang: utf-8
 timezone:  Europe/Istanbul
 repo: https://github.com/YiPianYe/ # site repo [optional]
