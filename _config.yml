@@ -15,7 +15,7 @@ repo: https://github.com/YiPianYe/ # site repo [optional]
 author:
   name: 鸿博
   # bio
-  bio: HB <br> MicroBlog <br> 微博，即微型博客（MicroBlog）的简称，微博微博，顾名思义，就是博客的微缩版，也即是博客的一种！ <br> 
+  bio: HB <br> MicroBlog <br> 微型博客（MicroBlog）顾名思义，就是博客的微缩版，也即是博客的一种！ <br> 
       
   # 头像切换
   picture: assets/images/xiaolian.png
