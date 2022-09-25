@@ -18,8 +18,13 @@ author:
   bio: HB <br> MicroBlog <br> 洗洗睡吧,梦里啥都有! <br> 
       
   # 头像切换
-  picture: assets/images/h.png
+  picture: assets/images/em.png
+ # picture: assets/images/h.png
  # picture: assets/images/b.png
+ # picture: assets/images/hh.png
+ # picture: assets/images/hhh.png
+ # picture: assets/images/hhhh.png
+ # picture: assets/images/em.png
   github: qinghongjiao # github username
   twitter: / # twitter username
   facebook: / # facebook username
