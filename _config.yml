@@ -59,7 +59,7 @@ plugins:
   - jekyll-relative-links
 paginate: 18
 paginate_path: "/page.html"
-#paginate_path: "/page.html"
+# paginate_path: "/page.html"
 
 collections:
   pages:
