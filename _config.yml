@@ -1,7 +1,7 @@
 # Site settings
 site: 鸿博
 title: HBw.Me
-keywords: HBw.Me, Blog,microblog， 
+keywords: HBw.Me, Blog,MicroBlog， 
 description: >-
    洗洗睡吧，梦里啥都有！
 lang: utf-8
@@ -17,7 +17,8 @@ author:
   # bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux <br> 
       
   
-  picture: assets/images/hakan-torun.jpg 
+  picture: assets/images/h.png
+  picture: assets/images/b.png
   github: qinghongjiao # github username
   twitter: / # twitter username
   facebook: / # facebook username
