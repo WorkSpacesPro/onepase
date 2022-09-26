@@ -56,7 +56,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-relative-links
+# - jekyll-relative-links
 paginate: 18
 paginate_path: "/page/:num"
 
