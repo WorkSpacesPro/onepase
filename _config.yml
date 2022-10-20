@@ -18,7 +18,8 @@ author:
   bio: HB <br> MicroBlog <br> 微型博客（MicroBlog）博客的微缩版，也即是博客的一种！ <br> 
       
   # 头像切换
-  picture: assets/images/xiaolian.png
+  picture: assets/images/gif.gif
+ # picture: assets/images/xiaolian.png
  # picture: assets/images/h.png
  # picture: assets/images/b.png
  # picture: assets/images/hh.png
