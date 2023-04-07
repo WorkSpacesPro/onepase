@@ -9,20 +9,24 @@ tags:
 - 旧人，新人
 ---
 
-# 张爱玲语录
+ 张爱玲语录
 
-
-It is not necessary to see to believe (although it surely helps!).
+** is not necessary to see t).
   - 旧人不知我近况
   - 新人不知我过往
   - 近况不该旧人知
   - 过往不与新人讲
   - 悲喜自渡
-  - 他人难悟．..
+  - 他人难悟．.. **
 
 =============
 
-You can find example code inside the submissions folder   
+《张爱玲传》
+洗了一个澡，换了一身衣服，出了门却不知道去哪儿，
+不知道去找谁，漫无目的走着，大概这就是成年人最深的孤独吧！
+旧人不知我近况，新人不知我过往。近况不该旧人知，
+过往不与新人谥纵你阅人何其多，再无一人恰似我。
+
 
 
 
