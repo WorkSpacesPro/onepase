@@ -6,7 +6,7 @@ description: >-
    微型博客（MicroBlog），顾名思义，就是博客的微缩版，也即是博客的一种！
 lang: utf-8
 timezone:  Europe/Istanbul
-repo: https://github.com/YiPianYe/ # site repo [optional]
+repo: https://github.com/workspaceing/ # site repo [optional]
 # google_verify:      Q4Ewp22lX-DiRoBVzVVP13 # Put your Google Verification here
 # google_analytics:   UA-5015 # Put your Google Analytics code
 # discus-identifier: hakanio
@@ -35,7 +35,7 @@ author:
 
 
 # URL settings
-url: "https://yipianye.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://workspaceing.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/onepase" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
